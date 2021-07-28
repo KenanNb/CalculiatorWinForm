@@ -1,0 +1,10 @@
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\bin\Debug\CalculiatorWinForm.exe.config
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\bin\Debug\CalculiatorWinForm.exe
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\bin\Debug\CalculiatorWinForm.pdb
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.csproj.AssemblyReference.cache
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.Form1.resources
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.Properties.Resources.resources
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.csproj.GenerateResource.cache
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.exe
+C:\Users\Kənan\source\repos\CalculiatorWinForm\CalculiatorWinForm\obj\Debug\CalculiatorWinForm.pdb
